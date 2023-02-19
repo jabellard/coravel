@@ -11,7 +11,7 @@
 
 # Coravel
 
-Coravel helps developers get their .NET Core applications up-and-running fast without compromising code qualities. 
+Coravel helps developers get their .NET Core applications up-and-running fast without compromising code quality. 
 
 It makes advanced application features accessible and easy-to-use by giving the user a simple, expressive and straightforward syntax.
 
