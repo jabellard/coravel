@@ -13,7 +13,7 @@
 
 Coravel helps developers get their .NET Core applications up-and-running fast without compromising code quality. 
 
-It makes advanced application features accessible and easy-to-use by giving you a simple, expressive and straightforward syntax.
+It makes advanced application features accessible and easy-to-use by giving the user a simple, expressive and straightforward syntax.
 
 ![Coravel Scheduler](./img/scheduledailyreport.png)
 
